@@ -50,5 +50,6 @@ GenerateTextボタンを押すたびに、新しいテキストが生成され�
 MIT License
 
 ## 謝辞
-- 使用したフォント: 
-- ツール: 
+- 使用したフォント: https://fonts.google.com/specimen/Zen+Kaku+Gothic+New
+- ツール: TextMeshPRo ,ShaderGraph ,UniversalRP
+
