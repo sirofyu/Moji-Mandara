@@ -39,7 +39,7 @@ GenerateTextボタンを押すたびに、新しいテキストが生成され�
 
 1. このリポジトリをクローンします：
 
-    git clone https://github.com/username/repository-name.git
+    git clone [https://github.com/username/repository-name.git](https://github.com/sirofyu/Moji-Mandara)
   
 2. 必要なパッケージをインストールします（Unityプロジェクトの設定が必要な場合）：
 
@@ -48,6 +48,7 @@ GenerateTextボタンを押すたびに、新しいテキストが生成され�
 
 ## ライセンス
 MIT License
+
 ## 謝辞
-- 使用したフォント: [フォント名] (リンク)
-- ツール: [ツール名] (リンク)
+- 使用したフォント: 
+- ツール: 
