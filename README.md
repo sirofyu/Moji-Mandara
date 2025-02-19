@@ -39,7 +39,7 @@ https://unityroom.com/games/moji-mandara~~
 ### ２．GitHubからリポジトリのクローンする
 かなり高度になりますので、１をおすすめしますが、コードレビューや中身が見たい場合にお勧めです。
 
-### ３．
+### ３．リリースデータをDLする
 リリースデータからビルドされたZIPファイルをダウンロードします。
 https://github.com/sirofyu/Moji-Mandara/releases/tag/Release
 ダウンロードしたフォルダーを展開後、Mandara_Moji.exeを開く
