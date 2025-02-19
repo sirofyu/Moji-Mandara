@@ -46,7 +46,9 @@ https://unityroom.com/games/moji-mandara~~
   
 2. 必要なパッケージをインストールします（Unityプロジェクトの設定が必要な場合）：
 
-    Unityを開き、プロジェクトをインポートしてください。
+    Unityを開き、プロジェクトをインポートしてください。Unityエディタのバージョンは
+   2022.3.31f1　（https://unity.com/ja/releases/editor/whats-new/2022.3.31）
+   です。
 
 
 ## ライセンス
